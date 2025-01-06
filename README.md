@@ -16,20 +16,20 @@
    
    Metode:
    
-   tampilkan_data: Mengembalikan informasi barang dalam format string.
+   tampilkan_data:    Mengembalikan informasi barang dalam format string.
 # class process
    Atribut: 
    
-        daftar_belanjaan untuk menyimpan semua barang dalam daftar belanjaan.
+        daftar_belanjaan    untuk menyimpan semua barang dalam daftar belanjaan.
    
    Metode 
 
-        tambah_barang: Menambahkan barang ke dalam daftar belanjaan.
+        tambah_barang:     Menambahkan barang ke dalam daftar belanjaan.
 
    Metode
 
-       cari_barang: Mencari barang berdasarkan nama (pencarian tidak sensitif terhadap huruf besar/kecil).
+       cari_barang:     Mencari barang berdasarkan nama (pencarian tidak sensitif terhadap huruf besar/kecil).
 
    Metode 
 
-       hitung_total: Menghitung total harga semua barang yang ada dalam daftar belanjaan.
+       hitung_total:     Menghitung total harga semua barang yang ada dalam daftar belanjaan.
