@@ -48,6 +48,7 @@
        berdasarkan nama, dan menghitung total belanjaan.
           
        
+
 ![Screenshot 2025-01-06 232840](https://github.com/user-attachments/assets/97f99ac4-9e9c-4557-bbab-4b65b0ba4356)
 
      class process
