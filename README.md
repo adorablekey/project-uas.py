@@ -8,7 +8,7 @@
 # Class data
    Atribut:
    
-  # nama barang
+   nama barang
    
    harga barang
    
