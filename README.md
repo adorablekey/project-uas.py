@@ -16,7 +16,7 @@
    
    Metode:
    
-   tampilkan_data:Mengembalikan informasi barang dalam format string.
+   tampilkan_data: Mengembalikan informasi barang dalam format string.
 # class process
    Atribut: 
    
