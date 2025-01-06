@@ -46,6 +46,7 @@
 # fungsi main
         Program utama yang membuat objek Proses Belanja dan Tampilan Belanja, kemudian menambah barang ke daftar belanjaan, menampilkan semua barang, mencari barang 
        berdasarkan nama, dan menghitung total belanjaan.
-![image](https://github.com/user-attachments/assets/2ed92d34-e5e0-4c0f-95d0-bbd6f40b655c)
+![Screenshot 2025-01-06 232840](https://github.com/user-attachments/assets/97f99ac4-9e9c-4557-bbab-4b65b0ba4356)
+
 
 
