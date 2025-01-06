@@ -33,3 +33,5 @@
    Metode 
 
        hitung_total: Menghitung total harga semua barang yang ada dalam daftar belanjaan.
+
+# class view
