@@ -47,16 +47,20 @@
         Program utama yang membuat objek Proses Belanja dan Tampilan Belanja, kemudian menambah barang ke daftar belanjaan, menampilkan semua barang, mencari barang 
        berdasarkan nama, dan menghitung total belanjaan.
     
-    class data      
+    
+     class data      
 ![Screenshot 2025-01-06 232840](https://github.com/user-attachments/assets/97f99ac4-9e9c-4557-bbab-4b65b0ba4356)
 
-
+     class process
 ![Screenshot 2025-01-06 234512](https://github.com/user-attachments/assets/701206ba-25f9-436f-9e3e-0bbf32415b86)
 
+     class view
 ![Screenshot 2025-01-06 232905](https://github.com/user-attachments/assets/41480cc0-48f2-452d-b64e-532cb59824a4)
 
+     fungsi
 ![Screenshot 2025-01-06 235207](https://github.com/user-attachments/assets/991861ab-3c97-4268-969f-9abec8e4fa57)
 
+     hasil
 ![Screenshot 2025-01-06 233641](https://github.com/user-attachments/assets/4543eebf-521f-4dcc-86c9-612d33d7fff0)
 
 
