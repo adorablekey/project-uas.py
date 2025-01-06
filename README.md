@@ -42,3 +42,8 @@
        Metode
 
                tampilkan_barang_tertentu: Menampilkan informasi barang yang ditemukan berdasarkan pencarian.
+
+# fungsi main
+        Program utama yang membuat objek Proses Belanja dan Tampilan Belanja, kemudian menambah barang ke daftar belanjaan, menampilkan semua barang, mencari barang 
+       berdasarkan nama, dan menghitung total belanjaan.
+
