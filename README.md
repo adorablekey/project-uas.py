@@ -17,3 +17,4 @@
    Metode:
    
    tampilkan_data: Mengembalikan informasi barang dalam format string.
+# class process
