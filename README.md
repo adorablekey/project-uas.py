@@ -35,3 +35,10 @@
        hitung_total: Menghitung total harga semua barang yang ada dalam daftar belanjaan.
 
 # class view
+       Metode 
+       
+               tampilkan_daftar_belanjaan: Menampilkan daftar semua barang yang ada dalam belanjaan.
+
+       Metode
+
+               tampilkan_barang_tertentu: Menampilkan informasi barang yang ditemukan berdasarkan pencarian.
