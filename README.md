@@ -8,8 +8,10 @@
 # Class data
    Atribut:
    
-   nama barang
+   'nama barang'
    
    harga barang
    
    dan menyimpan informasi barang.
+   
+   Metode tampilkan_data: Mengembalikan informasi barang dalam format string.
